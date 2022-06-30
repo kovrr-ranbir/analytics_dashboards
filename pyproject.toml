@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "panel-dashboard"
+version = "0.1.0"
+description = ""
+authors = ["Ranbir Dixit <ranbir@kovrr.com>"]
+readme = "README.md"
+packages = [{include = "panel_dashboard"}]
+
+[tool.poetry.dependencies]
+python = "=3.10.2"
+scipy = "^1.8.1"
+seaborn = "^0.11.2"
+numpy = "^1.22.4"
+pandas = "^1.4.2"
+matplotlib = "^3.5.2"
+panel = "^0.13.1"
+plotly = "^5.8.2"
+hvplot = "^0.8.0"
+pre-commit = "^2.19.0"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^3.4.3"
+notebook = "^6.4.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

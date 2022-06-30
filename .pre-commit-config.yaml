@@ -1,0 +1,28 @@
+default_install_hook_types: 
+  - pre-commit
+  - commit-msg
+repos:
+-  repo: https://github.com/ambv/black
+   rev: 22.3.0
+   hooks:
+   - id: black
+     exclude: ^(common)
+     language_version: python3.8
+
+-  repo: https://gitlab.com/pycqa/flake8
+   rev: 3.8.3
+   hooks:
+   - id: flake8
+     args: ["--exit-zero"]
+
+-  repo: https://github.com/pre-commit/mirrors-isort
+   rev: 'v5.3.2'
+   hooks:
+   - id: isort
+
+- repo: https://github.com/compilerla/conventional-pre-commit
+  rev: v1.3.0
+  hooks:
+    - id: conventional-pre-commit
+      stages: [commit-msg]
+
