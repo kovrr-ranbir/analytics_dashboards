@@ -1,0 +1,84 @@
+Division Desc.,Division,Code Desc.,Code Desc. Short,SIC Code,CRA_SIC
+Agriculture,A,Agricultural Production Crops,Agricultural Production Crops,01,A_01
+Agriculture,A,Agriculture production livestock and animal specialties,Agriculture production livestock,02,A_02
+Agriculture,A,Agricultural Services,Agricultural Services,07,A_07
+Agriculture,A,Forestry,Forestry,08,A_08
+Agriculture,A,Fishing hunting and trapping,Fishing hunting and trapping,09,A_09
+Mining,B,Metal Mining,Metal Mining,10,B_10
+Mining,B,Coal Mining,Coal Mining,12,B_12
+Mining,B,Oil And Gas Extraction,Oil And Gas Extraction,13,B_13
+Mining,B,"Mining And Quarrying Of Nonmetallic Minerals, Except Fuels",Mineral Mining,14,B_14
+Construction,C,Building Construction General Contractors And Operative Builders,Building Contractors,15,C_15
+Construction,C,Heavy Construction Other Than Building Construction Contractors,Heavy Construction Contractors,16,C_16
+Construction,C,Construction Special Trade Contractors,Special Trade Contractors,17,C_17
+Manufacturing,D,Food And Kindred Products,Food And Kindred Manuf.,20,D_20
+Manufacturing,D,Tobacco Products,Tobacco Manuf.,21,D_21
+Manufacturing,D,Textile Mill Products,Textile Manuf.,22,D_22
+Manufacturing,D,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Apparel And Fabrics Manuf.,23,D_23
+Manufacturing,D,"Lumber And Wood Products, Except Furniture","Wood Products, Except Furniture",24,D_24
+Manufacturing,D,Furniture And Fixtures,Furniture And Fixtures,25,D_25
+Manufacturing,D,Paper And Allied Products,Paper And Allied Products,26,D_26
+Manufacturing,D,"Printing, Publishing, And Allied Industries",Printing And Publishing,27,D_27
+Manufacturing,D,Chemicals And Allied Products,Chemicals And Products,28,D_28
+Manufacturing,D,Petroleum Refining And Related Industries,Petroleum Refining,29,D_29
+Manufacturing,D,Rubber And Miscellaneous Plastics Products,Rubber And Plastics,30,D_30
+Manufacturing,D,Leather And Leather Products,Leather Products,31,D_31
+Manufacturing,D,"Stone, Clay, Glass, And Concrete Products","Stone, Clay, Glass, And Concrete",32,D_32
+Manufacturing,D,Primary Metal Industries,Primary Metal Industries,33,D_33
+Manufacturing,D,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Fabricated Metal Products,34,D_34
+Manufacturing,D,Industrial And Commercial Machinery And Computer Equipment,Industrial Machinery inc. Computers,35,D_35
+Manufacturing,D,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Electronic And Electrical Equipment,36,D_36
+Manufacturing,D,Transportation Equipment,Transportation Equipment,37,D_37
+Manufacturing,D,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Measuring And Analyzing Instruments,38,D_38
+Manufacturing,D,Miscellaneous Manufacturing Industries,Miscellaneous Manufacturing,39,D_39
+Utilities and Services,E,Railroad Transportation,Railroad Transportation,40,E_40
+Utilities and Services,E,Local And Suburban Transit And Interurban Highway Passenger Transportation,Suburban Passenger Transportation,41,E_41
+Utilities and Services,E,Motor Freight Transportation And Warehousing,Freight Transportation And Warehousing,42,E_42
+Utilities and Services,E,United States Postal Service,United States Postal Service,43,E_43
+Utilities and Services,E,Water Transportation,Water Transportation,44,E_44
+Utilities and Services,E,Transportation By Air,Transportation By Air,45,E_45
+Utilities and Services,E,"Pipelines, Except Natural Gas","Pipelines, Except Natural Gas",46,E_46
+Utilities and Services,E,Transportation Services,Transportation Services,47,E_47
+Utilities and Services,E,Communications,Communications,48,E_48
+Utilities and Services,E,"Electric, Gas, And Sanitary Services","Electric, Gas, And Sanitary Services",49,E_49
+Wholesale Trade,F,Wholesale Trade-durable Goods,Wholesale Trade-durable Goods,50,F_50
+Wholesale Trade,F,Wholesale Trade-non-durable Goods,Wholesale Trade-non-durable Goods,51,F_51
+Retail Trade,G,"Building Materials, Hardware, Garden Supply, And Mobile Home Dealers",Building and Hardware Supply,52,G_52
+Retail Trade,G,General Merchandise Stores,General Merchandise Stores,53,G_53
+Retail Trade,G,Food Stores,Food Stores,54,G_54
+Retail Trade,G,Automotive Dealers And Gasoline Service Stations,Car Dealers And Fuel Stations,55,G_55
+Retail Trade,G,Apparel And Accessory Stores,Apparel And Accessory Stores,56,G_56
+Retail Trade,G,"Home Furniture, Furnishings, And Equipment Stores",Home Furnishings Stores,57,G_57
+Retail Trade,G,Eating And Drinking Places,Eating And Drinking Places,58,G_58
+Retail Trade,G,Miscellaneous Retail,Miscellaneous Retail,59,G_59
+"Finance, Insurance, And Real Estate",H,Depository Institutions,Depository Institutions,60,H_60
+"Finance, Insurance, And Real Estate",H,Non-depository Credit Institutions,Non-depository Credit Institutions,61,H_61
+"Finance, Insurance, And Real Estate",H,"Security And Commodity Brokers, Dealers, Exchanges, And Services",Security And Brokers And Exchanges,62,H_62
+"Finance, Insurance, And Real Estate",H,Insurance Carriers,Insurance Carriers,63,H_63
+"Finance, Insurance, And Real Estate",H,"Insurance Agents, Brokers, And Service",Insurance Agents and Brokers,64,H_64
+"Finance, Insurance, And Real Estate",H,Real Estate,Real Estate,65,H_65
+"Finance, Insurance, And Real Estate",H,Holding And Other Investment Offices,Investment Offices,67,H_67
+Services,I,"Hotels, Rooming Houses, Camps, And Other Lodging Places",Hotels And Lodging,70,I_70
+Services,I,Personal Services,Personal Services,72,I_72
+Services,I,Business Services,Business Services,73,I_73
+Services,I,"Automotive Repair, Services, And Parking","Car Repair, Services, And Parking",75,I_75
+Services,I,Miscellaneous Repair Services,Miscellaneous Repair Services,76,I_76
+Services,I,Motion Pictures,Motion Pictures,78,I_78
+Services,I,Amusement And Recreation Services,Amusement And Recreation Services,79,I_79
+Services,I,Health Services,Health Services,80,I_80
+Services,I,Legal Services,Legal Services,81,I_81
+Services,I,Educational Services,Educational Services,82,I_82
+Services,I,Social Services,Social Services,83,I_83
+Services,I,"Museums, Art Galleries, And Botanical And Zoological Gardens","Museums, And Entertainment",84,I_84
+Services,I,Membership Organizations,Membership Organizations,86,I_86
+Services,I,"Engineering, Accounting, Research, Management, And Related Services","Engineering, Accounting, Other Services",87,I_87
+Services,I,Private Households,Private Households,88,I_88
+Services,I,Miscellaneous Services,Miscellaneous Services,89,I_89
+Public Administration,J,"Executive, Legislative, And General Government, Except Finance",Gov. Legal And General Government,91,J_91
+Public Administration,J,"Justice, Public Order, And Safety","Gov. Justice, Public Order, And Safety",92,J_92
+Public Administration,J,"Public Finance, Taxation, And Monetary Policy",Gov. Public Finance,93,J_93
+Public Administration,J,Administration Of Human Resource Programs,Gov. Human Resource Programs,94,J_94
+Public Administration,J,Administration Of Environmental Quality And Housing Programs,Gov. Environmental Programs,95,J_95
+Public Administration,J,Administration Of Economic Programs,Gov. Economic Programs,96,J_96
+Public Administration,J,National Security And International Affairs,Gov. National Security,97,J_97
+Public Administration,J,Nonclassifiable Establishments,Nonclassifiable Establishments,99,J_99
