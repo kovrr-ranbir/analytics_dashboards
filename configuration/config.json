@@ -1,0 +1,26 @@
+{
+    "directories": [
+        "artifacts",
+        "data",
+        "data/staging_tables"
+    ],
+    "results_bucket_id": "ecrq_bucket-sme-modeling",
+    "file_remote_batch_list": [
+        "fq-set-manual-2022-04-20-oup1gk",
+        "fq-set-manual-2022-04-20-0uua9t",
+        "fq-set-manual-2022-04-20-pzdgpa",
+        "fq-set-manual-2022-04-20-1aosxc",
+        "fq-set-manual-2022-04-27-e1tby3",
+        "fq-set-manual-2022-04-21-37jab",
+        "fq-set-manual-2022-04-21-21znsp",
+        "fq-set-manual-2022-04-21-tzkou",
+        "fq-set-manual-2022-04-21-hgy4vf",
+        "fq-set-manual-2022-04-21-v2ozxz"
+    ],
+    "file_datastore": "data/",
+    "max_results": 9999999,
+    "download_batch_limit": null,
+    "test_run": false,
+    "export_csv": false,
+    "local_connection": true
+}
