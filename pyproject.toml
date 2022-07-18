@@ -1,27 +1,42 @@
 [tool.poetry]
-name = "panel-dashboard"
+name = "analytics-dashboards"
 version = "0.1.0"
-description = ""
+description = "analytics dashboards"
 authors = ["Ranbir Dixit <ranbir@kovrr.com>"]
 readme = "README.md"
-packages = [{include = "panel_dashboard"}]
+packages = [{include = "analytics_dashboards"}]
 
 [tool.poetry.dependencies]
-python = "=3.10.2"
+python = "=3.8.5"
 scipy = "^1.8.1"
 seaborn = "^0.11.2"
-numpy = "^1.22.4"
-pandas = "^1.4.2"
+numpy = "^1.23.0"
+pandas = "^1.4.3"
 matplotlib = "^3.5.2"
 panel = "^0.13.1"
-plotly = "^5.8.2"
+plotly = "^5.9.0"
 hvplot = "^0.8.0"
 pre-commit = "^2.19.0"
+IProgress = "^0.4"
+SQLAlchemy = "^1.4.39"
+sshtunnel = "^0.4.0"
+wheel = "^0.37.1"
+scikit-learn = "^1.1.1"
+psycopg2 = "^2.9.3"
+sentence-transformers = "^2.2.2"
+xgboost = "0.90"
 
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^3.4.3"
-notebook = "^6.4.12"
+pandas-profiling = "^3.2.0"
+black = "^22.6.0"
+flake8 = "^4.0.1"
+isort = "^5.10.1"
+pylint = "^2.14.4"
+jupyterlab-widgets = "^1.1.1"
+tqdm = "^4.64.0"
+ipywidgets = "^7.7.1"
 
 [build-system]
 requires = ["poetry-core"]
